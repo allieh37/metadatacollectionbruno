@@ -3,13 +3,9 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
+location,Location,
+time,Time,
+bruno_age,Bruno Age,
+bruno_position,Bruno Position,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+rights,Rights
