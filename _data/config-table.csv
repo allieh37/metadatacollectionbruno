@@ -1,5 +1,13 @@
 field,display_name
 title,Title
-date,Date
 description,Description
-subject,Subjects
+location,Location
+date,Date
+time,Time
+bruno_age,Bruno Age
+bruno_position,Bruno Position
+description,Description
+format,Format
+filename,Filename
+filesize,Fileszie
+rights,Rights
